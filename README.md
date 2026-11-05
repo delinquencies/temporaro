@@ -1,22 +1,21 @@
-# Tempo Raro
+# Tempo Raro — website prototype
 
-Luxury watch concierge website prototype.
+A cinematic fashion-editorial website for a luxury watch concierge and dealer.
 
-## Design direction
-Fashion-house editorial art direction inspired by Gucci and Hungry Minds: cinematic Mediterranean hero, center-out curtain reveal, scroll-driven sections, script/editorial typography, terracotta/wine/botanical accents.
+## Status — November 4, 2026
 
-## Current prototype
-The complete locally generated **Typography V3** package is not yet committed here. Keep the full ZIP contents together when importing so relative image paths work:
+- **Committed:** `index.html` — the complete Typography V3 HTML/CSS/JavaScript source, with curtain reveal, brand ticker, animations, directory and interactions.
+- **Not yet committed:** `assets/` photographic JPGs, `logos/sources.json`, `download-logos.mjs` and the bundled image assets. These are available in the **Tempo Raro Typography V3 ZIP** provided in the ChatGPT conversation.
+- **To preview with all images:** download that ZIP, extract it, and copy the `assets` and `logos` folders plus `download-logos.mjs` into the repository root.
 
-- `index.html` — website and interactions
-- `assets/` — hero and editorial photography
-- `logos/sources.json` — authentic watch-brand logo source manifest
-- `download-logos.mjs` — script for retrieving sourced logo assets
-- `README.md` — package instructions
+The brand ticker is designed for genuine manufacturer SVG logos; sourcing is a work in progress, and mentioning a brand must not imply an authorized relationship.
 
-The scrolling brand ticker should use authentic, legally appropriate manufacturer logos, not faux typographic stand-ins. Presence in the ticker must not imply authorized dealer affiliation.
+## Art direction
+
+Gucci fashion-editorial sensibility + Hungry Minds typographic character; cinematic sunlit architecture, script accents, selective terracotta/plum/botanical color, restrained micro-interactions.
 
 ## Next steps
-Import the complete Typography V3 ZIP contents into the repository root, keeping the directory structure. Then preview `index.html` in a browser or run a local development server. Review responsive design, actual logo assets, and motion.
+1. Import the missing asset folders from the ZIP.
+2. Verify authentic brand logos and responsive appearance before deployment.
 
-**Status:** Repository initialized; full prototype ZIP and binary image assets still require import.
+The design is a prototype; forms are not connected to a backend.
