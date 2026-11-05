@@ -1,0 +1,3045 @@
+{
+  "batchcomplete": "",
+  "query": {
+    "pages": {
+      "4436456": {
+        "pageid": 4436456,
+        "ns": 6,
+        "title": "File:Seiko logo.svg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Seiko_logo.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Seiko_logo.svg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=4436456",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2016-07-10 16:27:55",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Seiko logo",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Seiko|With trademark|Files with broken file links|PD textlogo|SVG simple text logos|5 letter alphabet logos of Japan|Valid SVG created with Adobe Illustrator:Text logos|Black alphabet logos of Japan|SVG logos of manufacturing companies of Japan|Serif logos|Logos of watch brands",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Logo of <a href=\"https://en.wikipedia.org/wiki/Seiko\" class=\"extiw\" title=\"w:Seiko\">Seiko</a>.",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "Own work using: <a rel=\"nofollow\" class=\"external free\" href=\"http://www.seiko.co.jp/en/contribution/sustainability/download.html\">http://www.seiko.co.jp/en/contribution/sustainability/download.html</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Seiko",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "trademarked",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/svg+xml"
+          }
+        ]
+      },
+      "5465614": {
+        "pageid": 5465614,
+        "ns": 6,
+        "title": "File:Bulgari logo.svg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Bulgari_logo.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Bulgari_logo.svg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=5465614",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2016-05-12 03:14:46",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Bulgari logo",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "With trademark|PD textlogo|SVG simple text logos|Valid SVG created with Inkscape:Text logos|SVG logos of Bulgari",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Logo of <a href=\"https://en.wikipedia.org/wiki/Bulgari\" class=\"extiw\" title=\"w:Bulgari\">BVLGARI</a>",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2008-12-12",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "Own work using: <a rel=\"nofollow\" class=\"external free\" href=\"http://www.brandsoftheworld.com/download/brand/209530.html\">http://www.brandsoftheworld.com/download/brand/209530.html</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Bulgari",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "trademarked",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/svg+xml"
+          }
+        ]
+      },
+      "7504110": {
+        "pageid": 7504110,
+        "ns": 6,
+        "title": "File:Vacheron Constantin.svg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Vacheron_Constantin.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Vacheron_Constantin.svg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=7504110",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2009-08-07 17:30:56",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Vacheron Constantin",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "With trademark|Vacheron Constantin|PD textlogo|Unspec SVG created with Inkscape|Logos of companies based in the canton of Geneva|SVG text logos|SVG logos of companies of Switzerland|Unspec New SVG created with Inkscape|Crosses in logos|Logos from Brands of the World|Logos of watch brands|Gold logos with transparent background|SVG logos of Richemont Group",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Logo of <a href=\"https://en.wikipedia.org/wiki/en:Vacheron_Constantin\" class=\"extiw\" title=\"w:en:Vacheron Constantin\">Vacheron Constantin</a>.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2009",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<table class=\"layouttemplate sourcetemplate\" style=\"background-color: #f6f7f5; background-color: var(--background-color-neutral-subtle, #f6f7f5); color: var(--color-base, #202122); border: var(--border-subtle, 1px solid #555555); border-spacing: 8px; padding:0; box-sizing: border-box; clear: both; margin: .5em auto; text-align: center; width: 100%;\" dir=\"ltr\" lang=\"en\">\n<tbody><tr>\n<td><span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:Brands_of_the_World_Logo.svg\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Brands_of_the_World_Logo.svg/120px-Brands_of_the_World_Logo.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"111\" height=\"50\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Brands_of_the_World_Logo.svg/250px-Brands_of_the_World_Logo.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"512\" data-file-height=\"232\"></a></span>\n</td>\n<td style=\"text-align: center;\">This <b><a href=\"https://en.wikipedia.org/wiki/Vector_graphics\" class=\"extiw\" title=\"en:Vector graphics\">vector image</a></b> was created by converting the <b><a href=\"https://en.wikipedia.org/wiki/Encapsulated_PostScript\" class=\"extiw\" title=\"w:Encapsulated PostScript\">Encapsulated PostScript</a></b> file available at <a rel=\"nofollow\" class=\"external text\" href=\"https://www.brandsoftheworld.com/\">Brands of the World</a> (<a rel=\"nofollow\" class=\"external text\" href=\"https://www.brandsoftheworld.com/logo/106097\">view</a> • <a rel=\"nofollow\" class=\"external text\" href=\"https://www.brandsoftheworld.com/logo/106097\">download</a>).<br>\n<div class=\"center\">Remember not all content there is in general free, see <a href=\"//commons.wikimedia.org/wiki/Commons:Fair_use\" title=\"Commons:Fair use\">Commons:Fair use</a> for more.</div><br><small>This tag does not indicate the copyright status of the attached work. <span style=\"white-space:nowrap\">A normal <a href=\"//commons.wikimedia.org/wiki/Special:MyLanguage/Commons:Copyright_tags\" title=\"Special:MyLanguage/Commons:Copyright tags\">copyright tag</a> is still required.</span> <span style=\"white-space:nowrap\">See <a href=\"//commons.wikimedia.org/wiki/Special:MyLanguage/Commons:Licensing\" title=\"Special:MyLanguage/Commons:Licensing\">Commons:Licensing</a>.</span></small>\n</td></tr></tbody></table><div style=\"display:table;width:;vertical-align:middle;direction:ltr;float:left;line-height:22px;height:24px;font-size:.96em;margin:0px;padding:2px 4px 2px 6px;color:var(--color-base,#000);background:var(--background-color-neutral-subtle,#F8F9FA);border:1px solid #BAB;border-collapse:separate;border-spacing:0px;background:#FEE;border:1px solid #600;\"><span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:Inkscape-ws.svg\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Inkscape-ws.svg/40px-Inkscape-ws.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"22\" height=\"22\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Inkscape-ws.svg/60px-Inkscape-ws.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"390\" data-file-height=\"390\"></a></span> This <i>W3C-unspecified</i> <a href=\"https://en.wikipedia.org/wiki/Vector_images\" class=\"extiw\" title=\"w:Vector images\">vector image</a> was created with <a href=\"https://en.wikipedia.org/wiki/Inkscape\" class=\"extiw\" title=\"w:Inkscape\">Inkscape</a> .</div>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Vacheron Constantin",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "<i>This logo image consists only of simple geometric shapes or text. It <b>does not meet the <a href=\"//commons.wikimedia.org/wiki/Commons:Threshold_of_originality\" title=\"Commons:Threshold of originality\">threshold of originality</a></b> needed for copyright protection, and is therefore in the <b><a href=\"https://en.wikipedia.org/wiki/public_domain\" class=\"extiw\" title=\"w:public domain\">public domain</a></b>. Although it is free of copyright restrictions, this image may still be subject to <a href=\"//commons.wikimedia.org/wiki/Commons:Non-copyright_restrictions\" title=\"Commons:Non-copyright restrictions\">other restrictions</a>. See <a href=\"https://en.wikipedia.org/wiki/Wikipedia:Public_domain#Fonts_and_typefaces\" class=\"extiw\" title=\"w:Wikipedia:Public domain\">WP:PD § Fonts and typefaces</a> or <a href=\"//commons.wikimedia.org/wiki/Template_talk:PD-textlogo\" title=\"Template talk:PD-textlogo\">Template talk:PD-textlogo</a> for more information.</i>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "trademarked",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/svg+xml"
+          }
+        ]
+      },
+      "9489313": {
+        "pageid": 9489313,
+        "ns": 6,
+        "title": "File:Omega Logo.svg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Omega_Logo.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Omega_Logo.svg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=9489313",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2010-02-16 02:38:09",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Omega Logo",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "With trademark|Omega SA|Omega (letter)|PD textlogo|SVG text logos|SVG logos of companies of Switzerland|2 rows logos|SVG logos of manufacturing companies|Logos of companies based in the canton of Bern|SVG red text logos|Logos of watch brands",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Logo of Omega",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2010-02-16",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external free\" href=\"http://www.omegawatches.com/\">http://www.omegawatches.com/</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Omega",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "trademarked",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/svg+xml"
+          }
+        ]
+      },
+      "9682002": {
+        "pageid": 9682002,
+        "ns": 6,
+        "title": "File:Junghans logo 2010.svg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Junghans_logo_2010.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Junghans_logo_2010.svg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=9682002",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2010-03-08 12:45:38",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Junghans logo 2010",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "SVG logos of companies of Germany|Junghans|With trademark|PD textlogo|SVG text logos|Logos of companies based in Landkreis Rottweil|SVG blue logos|Logos of watch brands",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Logo of <a href=\"https://en.wikipedia.org/wiki/Junghans\" class=\"extiw\" title=\"en:Junghans\">Junghans</a>, valid from 2010.",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "per e-mail from Junghans (<a class=\"external text\" href=\"https://ticket.wikimedia.org/otrs/index.pl?Action=AgentTicketZoom&amp;TicketID=4579867\">OTRS Ticket#: 2010030810020788</a>)",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Junghans",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "trademarked",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/svg+xml"
+          }
+        ]
+      },
+      "10405239": {
+        "pageid": 10405239,
+        "ns": 6,
+        "title": "File:Bellross logo.svg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Bellross_logo.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Bellross_logo.svg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=10405239",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2010-05-23 13:04:28",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Bellross logo",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "With trademark|Bell & Ross|PD textlogo|SVG text logos|Template Unknown (author)|Logos of watch brands",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Bell&amp;Ross Logo",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "WORLD COMMERCE CORPORATION",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Unknown author<span style=\"display: none;\">Unknown author</span>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "trademarked",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/svg+xml"
+          }
+        ]
+      },
+      "11711210": {
+        "pageid": 11711210,
+        "ns": 6,
+        "title": "File:Alange soehne logo.svg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Alange_soehne_logo.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Alange_soehne_logo.svg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=11711210",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2010-10-06 14:36:41",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Alange soehne logo",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "SVG logos of companies of Germany|With trademark|PD text|Lange & Söhne|Template Unknown (author)|Logos of companies based in Landkreis Sächsische Schweiz-Osterzgebirge|SVG black text logos|Logos of watch brands",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "<a href=\"https://de.wikipedia.org/wiki/A._Lange_%26_S%C3%B6hne\" class=\"extiw\" title=\"de:A. Lange &amp; Söhne\">A. Lange &amp; Söhne</a>-Logo",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2008-10-22",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external free\" href=\"http://www.richemont.com/annualReport/2008/Richemont_AR.pdf\">http://www.richemont.com/annualReport/2008/Richemont_AR.pdf</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Unknown author<span style=\"display: none;\">Unknown author</span>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "trademarked",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/svg+xml"
+          }
+        ]
+      },
+      "12063188": {
+        "pageid": 12063188,
+        "ns": 6,
+        "title": "File:Rado (Uhrenmarke) logo.svg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Rado_%28Uhrenmarke%29_logo.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Rado_(Uhrenmarke)_logo.svg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=12063188",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2010-11-15 21:26:30",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Rado (Uhrenmarke) logo",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "With trademark|Rado (entreprise)|PD textlogo|SVG text logos|SVG logos of companies of Switzerland|Template Unknown (author)|Logos of companies based in the canton of Bern|Logos of watch brands",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Logo von <a href=\"https://de.wikipedia.org/wiki/Rado_(Uhrenmarke)\" class=\"extiw\" title=\"de:Rado (Uhrenmarke)\">Rado</a>",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "17 April 2008 (original upload date)",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external free\" href=\"http://www.brandsoftheworld.com/brands/0000/2891/Rado.eps\">http://www.brandsoftheworld.com/brands/0000/2891/Rado.eps</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Unknown author<span style=\"display: none;\">Unknown author</span>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "trademarked",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/svg+xml"
+          }
+        ]
+      },
+      "14492144": {
+        "pageid": 14492144,
+        "ns": 6,
+        "title": "File:Tissot Logo.svg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Tissot_Logo.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Tissot_Logo.svg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=14492144",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2011-03-07 18:38:04",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Tissot Logo",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Tissot|With trademark|Images with annotations|PD textlogo|SVG text logos|SVG logos of companies of Switzerland|SVG variations on the national flag of Switzerland|Valid SVG extracted with Inkscape:Text logos|Logos of companies based in the canton of Neuchâtel|Logos of watch brands",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "New Logo of Tissot",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2025-07-07",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external free\" href=\"http://assets.tissotwatches.com/m/3f33cdde00e7533/original/TIS-Logotype-CMYK-International-Vertical-Color-Positive.png\">http://assets.tissotwatches.com/m/3f33cdde00e7533/original/TIS-Logotype-CMYK-International-Vertical-Color-Positive.png</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Tissot",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "trademarked",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/svg+xml"
+          }
+        ]
+      },
+      "15285591": {
+        "pageid": 15285591,
+        "ns": 6,
+        "title": "File:Ebel (Uhrenmarke) logo.svg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Ebel_%28Uhrenmarke%29_logo.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Ebel_(Uhrenmarke)_logo.svg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=15285591",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2011-05-23 15:42:39",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Ebel (Uhrenmarke) logo",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "With trademark|PD textlogo|SVG text logos|SVG logos of companies of Switzerland|Template Unknown (author)|Logos of companies based in the canton of Neuchâtel|SVG black text logos|Logos of watch brands|Economy of La Chaux-de-Fonds",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Logo von Ebel",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "28 March 2010 (original upload date)",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external free\" href=\"http://www.ebel.com/home_EN.swf\">http://www.ebel.com/home_EN.swf</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Unknown author<span style=\"display: none;\">Unknown author</span>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "trademarked",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/svg+xml"
+          }
+        ]
+      },
+      "15285592": {
+        "pageid": 15285592,
+        "ns": 6,
+        "title": "File:Cartier logo.svg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Cartier_logo.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Cartier_logo.svg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=15285592",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2011-05-23 15:42:55",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Cartier logo",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "With trademark|PD textlogo|SVG text logos|Template Unknown (author)|SVG logos of manufacturing companies of France|Logos of watch brands|Logos of pen manufacturing companies|SVG logos of Cartier",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Logo von Cartier",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "28 March 2010 (original upload date)",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external free\" href=\"http://www.cartier.de/extension/cartier/design/cartier/images/start.swf\">http://www.cartier.de/extension/cartier/design/cartier/images/start.swf</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Unknown author<span style=\"display: none;\">Unknown author</span>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "trademarked",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/svg+xml"
+          }
+        ]
+      },
+      "15388473": {
+        "pageid": 15388473,
+        "ns": 6,
+        "title": "File:Citizen logo.svg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Citizen_logo.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Citizen_logo.svg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=15388473",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2016-11-06 14:59:45",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Citizen logo",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Citizen (watch)|With trademark|PD textlogo|SVG simple text logos|Template Unknown (author)|7 letter alphabet logos of Japan|Black alphabet logos of Japan|SVG logos of manufacturing companies|Black logos with transparent background|Serif logos|Logos of watch brands|Citizen (text)|SVG logos of fashion companies of Japan",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "A logo of <a href=\"https://en.wikipedia.org/wiki/Citizen_Holdings\" class=\"extiw\" title=\"en:Citizen Holdings\">Citizen</a>.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "17 April 2008 (original upload date)",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "PNG von Citizen",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<p>Unknown author<span style=\"display: none;\">Unknown author</span>\n</p>\n<a href=\"https://de.wikipedia.org/wiki/User:Marsupilami\" class=\"extiw\" title=\"de:User:Marsupilami\">Marsupilami</a> at <a class=\"external text\" data-mw-original-href=\"http://de.wikipedia.org\" href=\"https://de.wikipedia.org\">de.wikipedia</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "trademarked",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/svg+xml"
+          }
+        ]
+      },
+      "15597034": {
+        "pageid": 15597034,
+        "ns": 6,
+        "title": "File:Montblanc logo.svg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Montblanc_logo.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Montblanc_logo.svg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=15597034",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2011-06-23 22:07:12",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Montblanc logo",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "SVG logos of manufacturing companies of Germany|With trademark|PD textlogo|SVG text logos|Valid SVG created with Inkscape:Text logos|Logos of pen manufacturing companies in Germany|Montblanc logos",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "This is the <a href=\"https://en.wikipedia.org/wiki/Montblanc_(company)\" class=\"extiw\" title=\"w:Montblanc (company)\">Montblanc</a> logo.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2011-06-23",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "Own work using: <a rel=\"nofollow\" class=\"external free\" href=\"http://www.montblanc.com\">http://www.montblanc.com</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<ul><li><b>Original image:</b> Mont Blanc.<br></li>\n<li><b>SVG version:</b> <a href=\"//commons.wikimedia.org/wiki/User:ANGELUS\" title=\"User:ANGELUS\"><b><span style=\"font-family:Papyrus;color:black\">A</span><span style=\"font-family:Papyrus;color:green\">ngelus</span></b></a></li></ul>",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "<i>This logo image consists only of simple geometric shapes or text. It <b>does not meet the <a href=\"//commons.wikimedia.org/wiki/Commons:Threshold_of_originality\" title=\"Commons:Threshold of originality\">threshold of originality</a></b> needed for copyright protection, and is therefore in the <b><a href=\"https://en.wikipedia.org/wiki/public_domain\" class=\"extiw\" title=\"w:public domain\">public domain</a></b>. Although it is free of copyright restrictions, this image may still be subject to <a href=\"//commons.wikimedia.org/wiki/Commons:Non-copyright_restrictions\" title=\"Commons:Non-copyright restrictions\">other restrictions</a>. See <a href=\"https://en.wikipedia.org/wiki/Wikipedia:Public_domain#Fonts_and_typefaces\" class=\"extiw\" title=\"w:Wikipedia:Public domain\">WP:PD § Fonts and typefaces</a> or <a href=\"//commons.wikimedia.org/wiki/Template_talk:PD-textlogo\" title=\"Template talk:PD-textlogo\">Template talk:PD-textlogo</a> for more information.</i>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "trademarked",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/svg+xml"
+          }
+        ]
+      },
+      "22331929": {
+        "pageid": 22331929,
+        "ns": 6,
+        "title": "File:Piaget logo.svg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Piaget_logo.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Piaget_logo.svg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=22331929",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2012-10-24 12:45:00",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Piaget logo",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Piaget SA|With trademark|PD textlogo|SVG text logos|SVG logos of companies of Switzerland|Unchecked SVG validity|Logos of companies based in the canton of Neuchâtel|SVG black text logos|1870s logos|Logos of watch brands",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Logo of Piaget.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "17 October 2009 (original upload date)",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<bdi lang=\"en\" dir=\"ltr\">Transferred from <span class=\"plainlinks\"><a class=\"external text\" data-mw-original-href=\"//de.wikipedia.org\" href=\"https://de.wikipedia.org\">de.wikipedia</a></span> to Commons.</bdi> (<span lang=\"en\" dir=\"ltr\"><b>Original text</b>: <i><bdi lang=\"\"><a rel=\"nofollow\" class=\"external autonumber\" href=\"http://de.piaget.com/crossdomain/swf/piaget.swf\">[1]</a></bdi></i></span>)",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Piaget",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "trademarked",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/svg+xml"
+          }
+        ]
+      },
+      "22333084": {
+        "pageid": 22333084,
+        "ns": 6,
+        "title": "File:Logo Audemars Piguet.svg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Logo_Audemars_Piguet.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Logo_Audemars_Piguet.svg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=22333084",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2012-10-24 13:41:52",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Logo Audemars Piguet",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Audemars Piguet|With trademark|Vector images of trademarks|PD textlogo|AP letter combinations|SVG text logos|SVG logos of companies of Switzerland|Unknown date|A in logos|1875 establishments in Switzerland|3 rows logos|Valid SVG created with Adobe Illustrator:Text logos|SVG logos of manufacturing companies|SVG black text logos|Logos of watch brands|Logos with slogans|French-language SVG logos",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Logo of Audemars Piguet company",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "Unknown date",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "Own work using: <a rel=\"nofollow\" class=\"external text\" href=\"http://www.logotheque.fr/lettre+A/logo+Audemars+Piguet.svg.html\">www.LOGOTHEQUE.fr - logo Audemars Piguet</a> <span style=\"font-size: 0.95em; font-weight: bold; color:#555; position: relative;\">(French)</span>. <i>logotheque.fr</i>. Retrieved on <span class=\"mw-formatted-date\" title=\"2025-05-18\">2025-05-18</span>.",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Audemars_Piguet\" class=\"extiw\" title=\"w:en:Audemars Piguet\"><span title=\"manufacturer of luxury Swiss watches\">Audemars Piguet</span></a></bdi>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "trademarked",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/svg+xml"
+          }
+        ]
+      },
+      "25000208": {
+        "pageid": 25000208,
+        "ns": 6,
+        "title": "File:International Watch Company logo.svg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/International_Watch_Company_logo.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:International_Watch_Company_logo.svg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=25000208",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2021-03-30 06:44:52",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "International Watch Company logo",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "With trademark|International Watch Company|PD textlogo|SVG text logos|SVG logos of companies of Switzerland|Template Unknown (author)|IWC letter combinations|Logos of watch brands|Logos of companies based in Schaffhausen",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Logo",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "27 July 2008 (original upload date)",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a href=\"https://en.wikipedia.org/wiki/Image:IWC_logo.svg\" class=\"extiw\" title=\"en:Image:IWC logo.svg\">:en:Image:IWC logo.svg</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Unknown author<span style=\"display: none;\">Unknown author</span>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "trademarked",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/svg+xml"
+          }
+        ]
+      },
+      "34749680": {
+        "pageid": 34749680,
+        "ns": 6,
+        "title": "File:Glashütter Uhrenbetrieb logo.svg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/9/95/Glash%C3%BCtter_Uhrenbetrieb_logo.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Glash%C3%BCtter_Uhrenbetrieb_logo.svg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=34749680",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2014-08-15 01:15:34",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Glashütter Uhrenbetrieb logo",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "SVG logos of companies of Germany|Glashütte Original|With trademark|PD textlogo|SVG text logos|Template Unknown (author)|Logos of companies based in Landkreis Sächsische Schweiz-Osterzgebirge|Logos of watch brands",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Logo",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external free\" href=\"http://www.glashuette-original.com/upload/zeitschriftMomentum/u_34_zei1_2002d.pdf\">http://www.glashuette-original.com/upload/zeitschriftMomentum/u_34_zei1_2002d.pdf</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Unknown author<span style=\"display: none;\">Unknown author</span>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "trademarked",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/svg+xml"
+          }
+        ]
+      },
+      "38931986": {
+        "pageid": 38931986,
+        "ns": 6,
+        "title": "File:Nomos Glashütte.svg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Nomos_Glash%C3%BCtte.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Nomos_Glash%C3%BCtte.svg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=38931986",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2015-03-15 01:13:51",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Nomos Glashütte",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "With trademark|PD textlogo|SVG simple text logos",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "SVG-Version des NOMOS Glashütte-Logos",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2011-04-02",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a class=\"external free\" data-mw-original-href=\"http://de.wikipedia.org/wiki/Datei:NOMOS_Glashuette_logo.png\" href=\"https://de.wikipedia.org/wiki/Datei:NOMOS_Glashuette_logo.png\">http://de.wikipedia.org/wiki/Datei:NOMOS_Glashuette_logo.png</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "NOMOS Glashütte",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "trademarked",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/svg+xml"
+          }
+        ]
+      },
+      "38942796": {
+        "pageid": 38942796,
+        "ns": 6,
+        "title": "File:Raymond Weil logo.svg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Raymond_Weil_logo.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Raymond_Weil_logo.svg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=38942796",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2015-03-15 14:37:39",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Raymond Weil logo",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Raymond Weil|With trademark|PD textlogo|Logos of companies based in the canton of Geneva|SVG text logos|SVG logos of companies of Switzerland|Template Unknown (author)|Logos of watch brands",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Logo",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external free\" href=\"http://www.raymond-weil.com/WATCHES.img/File/IFU/IFU_RW_Sport_Dual_Time_EN.pdf\">http://www.raymond-weil.com/WATCHES.img/File/IFU/IFU_RW_Sport_Dual_Time_EN.pdf</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Unknown author<span style=\"display: none;\">Unknown author</span>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "trademarked",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/svg+xml"
+          }
+        ]
+      },
+      "40430359": {
+        "pageid": 40430359,
+        "ns": 6,
+        "title": "File:Sinn (Uhrenhersteller) logo.svg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Sinn_%28Uhrenhersteller%29_logo.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Sinn_(Uhrenhersteller)_logo.svg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=40430359",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2015-05-25 02:17:36",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Sinn (Uhrenhersteller) logo",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Logos of brands of Germany|With trademark|PD textlogo|Sinn|SVG text logos|Template Unknown (author)",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Logo",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external free\" href=\"http://www.sinn.de/de/Download/Katalog_Deutsch.pdf\">http://www.sinn.de/de/Download/Katalog_Deutsch.pdf</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Unknown author<span style=\"display: none;\">Unknown author</span>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "trademarked",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/svg+xml"
+          }
+        ]
+      },
+      "40442684": {
+        "pageid": 40442684,
+        "ns": 6,
+        "title": "File:TAG Heuer Logo.svg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/d/de/TAG_Heuer_Logo.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:TAG_Heuer_Logo.svg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=40442684",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2020-03-26 04:29:33",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "TAG Heuer Logo",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "With trademark|PD textlogo|SVG text logos|Template Unknown (author)|Valid SVG created with Inkscape:Text logos|TAG Heuer logos",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "<a href=\"https://de.wikipedia.org/wiki/Firmenlogo\" class=\"extiw\" title=\"de:Firmenlogo\">Logo</a>",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a href=\"https://de.wikipedia.org/wiki/SVG\" class=\"extiw\" title=\"de:SVG\">SVG</a> erstellt mit <a href=\"https://de.wikipedia.org/wiki/Inkscape\" class=\"extiw\" title=\"de:Inkscape\">Inkscape</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Unknown author<span style=\"display: none;\">Unknown author</span>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "trademarked",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/svg+xml"
+          }
+        ]
+      },
+      "76224186": {
+        "pageid": 76224186,
+        "ns": 6,
+        "title": "File:Zenith S. A. logo.svg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Zenith_S._A._logo.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Zenith_S._A._logo.svg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=76224186",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2019-01-31 00:27:24",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Zenith S. A. logo",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "With trademark|PD textlogo|Unspec SVG created with Inkscape|SVG text logos|Unspec New SVG created with Inkscape|Zenith SA - Logos",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Zenith S. A. logo,  is a Swiss luxury watchmaker. The company was started in 1865",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2019-01-30",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span><div style=\"display:table;width:;vertical-align:middle;direction:ltr;float:left;line-height:22px;height:24px;font-size:.96em;margin:0px;padding:2px 4px 2px 6px;color:var(--color-base,#000);background:var(--background-color-neutral-subtle,#F8F9FA);border:1px solid #BAB;border-collapse:separate;border-spacing:0px;background:#FEE;border:1px solid #600;\"><span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:Inkscape-ws.svg\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Inkscape-ws.svg/40px-Inkscape-ws.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"22\" height=\"22\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Inkscape-ws.svg/60px-Inkscape-ws.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"390\" data-file-height=\"390\"></a></span> This <i>W3C-unspecified</i> <a href=\"https://en.wikipedia.org/wiki/Vector_images\" class=\"extiw\" title=\"w:Vector images\">vector image</a> was created with <a href=\"https://en.wikipedia.org/wiki/Inkscape\" class=\"extiw\" title=\"w:Inkscape\">Inkscape</a> .</div>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"https://en.wikipedia.org/wiki/Zenith_(watchmaker)\" class=\"extiw\" title=\"w:Zenith (watchmaker)\">Zenith (watchmaker)</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "trademarked",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/svg+xml"
+          }
+        ]
+      },
+      "76728794": {
+        "pageid": 76728794,
+        "ns": 6,
+        "title": "File:Richard Mille Logo.svg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Richard_Mille_Logo.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Richard_Mille_Logo.svg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=76728794",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2019-02-20 16:40:40",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Richard Mille Logo",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Richard Mille|With trademark|PD textlogo|SVG logos of companies of Switzerland|SVG simple text logos|Unknown date|Black text logos|Valid SVG created with Other tools:Text logos|Logos of companies based in the canton of Jura|Logos of watch brands",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Logo der Uhrenmarke Richard Mille",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "Unknown date",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external free\" href=\"http://www.richardmille.com/en/home/\">http://www.richardmille.com/en/home/</a> (embedded)",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Richard Mille, Horometrie S.A.",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "trademarked",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/svg+xml"
+          }
+        ]
+      },
+      "109544899": {
+        "pageid": 109544899,
+        "ns": 6,
+        "title": "File:Tudor (Uhrenmarke) logo.svg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Tudor_%28Uhrenmarke%29_logo.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Tudor_(Uhrenmarke)_logo.svg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=109544899",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2021-09-01 01:34:05",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Tudor (Uhrenmarke) logo",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Tudor watches|With trademark|PD shape|SVG logos of companies of Switzerland|Black and red logos with transparent background|Template Unknown (author)|PD-shape missing SDC copyright status|Logos of watch brands|Logos of companies based in Geneva",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Logo von <a href=\"https://de.wikipedia.org/wiki/Tudor_(Uhrenmarke)\" class=\"extiw\" title=\"de:Tudor (Uhrenmarke)\">Tudor (Uhrenmarke)</a>",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "SVG aus <a rel=\"nofollow\" class=\"external free\" href=\"https://www.tudorwatch.com/de\">https://www.tudorwatch.com/de</a> entnommen",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Unknown author<span style=\"display: none;\">Unknown author</span>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "trademarked",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/svg+xml"
+          }
+        ]
+      },
+      "125998275": {
+        "pageid": 125998275,
+        "ns": 6,
+        "title": "File:Rolex wordmark logo.svg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Rolex_wordmark_logo.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Rolex_wordmark_logo.svg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=125998275",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2022-11-27 08:42:14",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Rolex wordmark logo",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "With trademark|PD textlogo|SVG text logos|SVG logos of companies of Switzerland|SVG logos of manufacturing companies|SVG green text logos|Logos of watch brands|Rolex logos|2002 logos",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Wordmark logo of Rolex",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2002",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "www.rolex.com",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Rolex SA",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "trademarked",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/svg+xml"
+          }
+        ]
+      },
+      "127923956": {
+        "pageid": 127923956,
+        "ns": 6,
+        "title": "File:Baume & Mercier logo.svg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Baume_%26_Mercier_logo.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Baume_%26_Mercier_logo.svg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=127923956",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2023-01-19 22:00:28",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Baume & Mercier logo",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "With trademark|Baume et Mercier|PD textlogo|SVG text logos|SVG logos of companies of Switzerland|Valid SVG created with Adobe Illustrator:Text logos|Black logos with transparent background|Logos of watch brands|Logos of companies based in Geneva",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Logo of Baume &amp; Mercier",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "1918",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "www.baume-et-mercier.com",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Baume &amp; Mercier SA",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "trademarked",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/svg+xml"
+          }
+        ]
+      },
+      "127924962": {
+        "pageid": 127924962,
+        "ns": 6,
+        "title": "File:Bulova logo.svg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Bulova_logo.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Bulova_logo.svg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=127924962",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2023-01-19 22:57:42",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Bulova logo",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Bulova|With trademark|PD textlogo|SVG text logos|SVG logos of manufacturing companies of the United States|Logos of watch brands",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Logo of Bulova since 2014",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2014",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "www.bulova.com",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Citizen Watch Co., Ltd.",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "trademarked",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/svg+xml"
+          }
+        ]
+      },
+      "127925268": {
+        "pageid": 127925268,
+        "ns": 6,
+        "title": "File:Blancpain logo.svg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Blancpain_logo.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Blancpain_logo.svg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=127925268",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2025-10-15 06:35:08",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Blancpain logo",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Blancpain|With trademark|PD textlogo|SVG text logos|SVG logos of companies of Switzerland|Logos of companies based in the canton of Vaud|SVG black text logos|Logos of watch brands",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Logo of Blancpain",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "1735",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "www.blancpain.com",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Blancpain SA",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "trademarked",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/svg+xml"
+          }
+        ]
+      },
+      "127927676": {
+        "pageid": 127927676,
+        "ns": 6,
+        "title": "File:Hublot logo.svg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Hublot_logo.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Hublot_logo.svg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=127927676",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2023-02-20 01:00:33",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Hublot logo",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Hublot|With trademark|PD textlogo|SVG text logos|SVG logos of companies of Switzerland|Black logos with transparent background|Logos of companies based in the canton of Vaud|Logos of watch brands",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Logo of Hublot",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "1980",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "www.hublot.com",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "HUBLOT SA",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "trademarked",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/svg+xml"
+          }
+        ]
+      },
+      "127928387": {
+        "pageid": 127928387,
+        "ns": 6,
+        "title": "File:Panerai logo.svg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Panerai_logo.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Panerai_logo.svg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=127928387",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2023-01-20 03:19:31",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Panerai logo",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "With trademark|PD textlogo|SVG text logos|Black text logos|Logos of watch brands|SVG logos of Panerai",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Logo of watchmaker Panerai",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "1980s<div style=\"display: none;\">date QS:P,+1980-00-00T00:00:00Z/8</div>",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "www.panerai.com",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Officine Panerai",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "trademarked",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/svg+xml"
+          }
+        ]
+      },
+      "127932429": {
+        "pageid": 127932429,
+        "ns": 6,
+        "title": "File:Longines wordmark logo.svg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Longines_wordmark_logo.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Longines_wordmark_logo.svg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=127932429",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2023-01-20 08:18:54",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Longines wordmark logo",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "With trademark|Longines|PD textlogo|SVG text logos|SVG logos of companies of Switzerland|Navy blue text logos|Logos of companies based in the canton of Jura|Logos of watch brands",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Longines wordmark",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "1981",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "www.longines.com",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Longines Watch Co. Francillon Ltd.",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "trademarked",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/svg+xml"
+          }
+        ]
+      },
+      "127932861": {
+        "pageid": 127932861,
+        "ns": 6,
+        "title": "File:Certina wordmark logo.svg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/0/08/Certina_wordmark_logo.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Certina_wordmark_logo.svg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=127932861",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2023-01-20 08:42:09",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Certina wordmark logo",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "With trademark|Certina|PD textlogo|SVG text logos|SVG logos of companies of Switzerland|Logos of companies based in the canton of Neuchâtel|SVG black text logos|Logos of watch brands",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Certina wordmark logo",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2014",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "www.certina.com",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "CERTINA SA.",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "trademarked",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/svg+xml"
+          }
+        ]
+      },
+      "127933156": {
+        "pageid": 127933156,
+        "ns": 6,
+        "title": "File:Mido logo.svg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Mido_logo.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Mido_logo.svg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=127933156",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2023-01-20 08:58:41",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Mido logo",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "With trademark|PD textlogo|SVG text logos|SVG logos of companies of Switzerland|Unknown date|Logos of companies based in the canton of Neuchâtel|SVG orange text logos|Logos of watch brands|Mido SA",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Logo of watch brand Mido",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "Unknown date",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "www.midowatches.com",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Mido SA",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "trademarked",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/svg+xml"
+          }
+        ]
+      },
+      "145920445": {
+        "pageid": 145920445,
+        "ns": 6,
+        "title": "File:Oris logo.svg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Oris_logo.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Oris_logo.svg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=145920445",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2024-02-28 16:54:22",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Oris logo",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "With trademark|Oris|PD textlogo|SVG text logos|SVG logos of companies of Switzerland|Unknown date|Black text logos|Logos of watch brands",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Oris logo",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "Unknown date",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "oris.ch",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Oris SA",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "trademarked",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/svg+xml"
+          }
+        ]
+      },
+      "145928218": {
+        "pageid": 145928218,
+        "ns": 6,
+        "title": "File:Parmigiani Fleurier logo.svg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Parmigiani_Fleurier_logo.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Parmigiani_Fleurier_logo.svg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=145928218",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2024-02-28 21:02:34",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Parmigiani Fleurier logo",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "With trademark|PD textlogo|SVG text logos|SVG logos of companies of Switzerland|Unknown date|Logos of companies based in the canton of Neuchâtel|Parmigiani Fleurier|Gold text logos|Logos of watch brands",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Parmigiani Fleurier logo",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "Unknown date",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "seeklogo.com",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Parmigiani Fleurier SA",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "trademarked",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/svg+xml"
+          }
+        ]
+      },
+      "200093747": {
+        "pageid": 200093747,
+        "ns": 6,
+        "title": "File:Breguet 2025 logo.svg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Breguet_2025_logo.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Breguet_2025_logo.svg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=200093747",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2026-09-23 21:34:43",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Breguet 2025 logo",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Breguet (watch)|With trademark|PD shape|SVG logos of companies of Switzerland|Logos of companies based in the canton of Jura|SVG black text logos|PD-shape missing SDC copyright status|Logos of watch brands|2025 SVG logos",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Logo of <a href=\"https://en.wikipedia.org/wiki/Breguet_(brand)\" class=\"extiw\" title=\"en:Breguet (brand)\">Breguet</a>.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2025",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "www.breguet.com",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Montres Breguet SA",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "trademarked",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/svg+xml"
+          }
+        ]
+      }
+    }
+  }
+}

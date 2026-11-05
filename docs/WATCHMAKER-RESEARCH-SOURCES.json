@@ -1,0 +1,883 @@
+{
+  "A. Lange & Söhne": {
+    "official": "https://www.alange-soehne.com/us-en",
+    "sources": [
+      "https://www.alange-soehne.com/eu-de/timepieces/all-timepieces",
+      "https://www.alange-soehne.com/eu-de/timepieces/saxonia",
+      "https://press.alange-soehne.com/de/saxonia-jahreskalender/",
+      "https://www.alange-soehne.com/eu-de/timepieces/selections/novelties",
+      "https://www.alange-soehne.com/gb-en/timepieces/selections/manual-watches",
+      "https://www.alange-soehne.com/eu-de/timepieces/calendar-watches"
+    ],
+    "linkCheck": {
+      "date": "2026-11-05",
+      "method": "official source indexed in search; direct retrieval restricted or incomplete",
+      "directStatus": 403,
+      "directError": "HTTP 403"
+    }
+  },
+  "Alpina": {
+    "official": "https://alpinawatches.com/",
+    "sources": [
+      "https://alpinawatches.com/"
+    ],
+    "linkCheck": {
+      "date": "2026-11-05",
+      "method": "official website retrieved",
+      "directStatus": 200,
+      "directError": null
+    }
+  },
+  "Arnold & Son": {
+    "official": "https://www.arnoldandson.com/",
+    "sources": [
+      "https://www.arnoldandson.com/"
+    ],
+    "linkCheck": {
+      "date": "2026-11-05",
+      "method": "official website retrieved",
+      "directStatus": 200,
+      "directError": null
+    }
+  },
+  "Audemars Piguet": {
+    "official": "https://www.audemarspiguet.com/en/collections",
+    "sources": [
+      "https://www.audemarspiguet.com/en/collections"
+    ],
+    "linkCheck": {
+      "date": "2026-11-05",
+      "method": "official website retrieved",
+      "directStatus": 200,
+      "directError": null
+    }
+  },
+  "Ball Watch": {
+    "official": "https://www.ballwatch.com/en/ball-watches",
+    "sources": [
+      "https://www.ballwatch.com/en/ball-watches"
+    ],
+    "linkCheck": {
+      "date": "2026-11-05",
+      "method": "official source indexed in search; direct retrieval restricted or incomplete",
+      "directStatus": null,
+      "directError": "The operation was aborted due to timeout"
+    }
+  },
+  "Baume & Mercier": {
+    "official": "https://www.baume-et-mercier.com/us/en",
+    "sources": [
+      "https://www.baume-et-mercier.com/fr/fr/montres/toutes-nos-montres.html"
+    ],
+    "linkCheck": {
+      "date": "2026-11-05",
+      "method": "official source indexed in search; direct retrieval restricted or incomplete",
+      "directStatus": 403,
+      "directError": "HTTP 403"
+    }
+  },
+  "Bell & Ross": {
+    "official": "https://bellross.com/en-us/collections/toutes-nos-montres",
+    "sources": [
+      "https://bellross.com/en-us/collections/toutes-nos-montres"
+    ],
+    "linkCheck": {
+      "date": "2026-11-05",
+      "method": "official source indexed in search; direct retrieval restricted or incomplete",
+      "directStatus": 429,
+      "directError": "HTTP 429"
+    }
+  },
+  "Blancpain": {
+    "official": "https://www.blancpain.com/en",
+    "sources": [
+      "https://www.blancpain.com/en"
+    ],
+    "linkCheck": {
+      "date": "2026-11-05",
+      "method": "official website retrieved",
+      "directStatus": 200,
+      "directError": null
+    }
+  },
+  "Breguet": {
+    "official": "https://www.breguet.com/en",
+    "sources": [
+      "https://www.breguet.com/en"
+    ],
+    "linkCheck": {
+      "date": "2026-11-05",
+      "method": "official website retrieved",
+      "directStatus": 200,
+      "directError": null
+    }
+  },
+  "Breitling": {
+    "official": "https://www.breitling.com/us-en/",
+    "sources": [
+      "https://www.breitling.com/us-en/"
+    ],
+    "linkCheck": {
+      "date": "2026-11-05",
+      "method": "official website retrieved",
+      "directStatus": 200,
+      "directError": null
+    }
+  },
+  "Bulgari": {
+    "official": "https://www.bulgari.com/en-gb/collection/watches",
+    "sources": [
+      "https://www.bulgari.com/en-gb/collection/watches",
+      "https://www.bulgari.com/en-bg/watches",
+      "https://www.bulgari.com/en-gb/watches",
+      "https://www.bulgari.com/en-int/watches-2",
+      "https://www.bulgari.com/en-in/watches",
+      "https://www.bulgari.com/en-in/collection/watches"
+    ],
+    "linkCheck": {
+      "date": "2026-11-05",
+      "method": "official source indexed in search; direct retrieval restricted or incomplete",
+      "directStatus": 403,
+      "directError": "HTTP 403"
+    }
+  },
+  "Cartier": {
+    "official": "https://www.cartier.com/en-us/watches/",
+    "sources": [
+      "https://www.cartier.com/en-us/watches/"
+    ],
+    "linkCheck": {
+      "method": "existing featured profile; not re-requested in this pass"
+    }
+  },
+  "Certina": {
+    "official": "https://www.certina.com/en",
+    "sources": [
+      "https://www.certina.com/en"
+    ],
+    "linkCheck": {
+      "date": "2026-11-05",
+      "method": "official website retrieved",
+      "directStatus": 200,
+      "directError": null
+    }
+  },
+  "Chopard": {
+    "official": "https://www.chopard.com/en-us/watches",
+    "sources": [
+      "https://www.chopard.com/en-us/watches"
+    ],
+    "linkCheck": {
+      "date": "2026-11-05",
+      "method": "official website retrieved",
+      "directStatus": 200,
+      "directError": null
+    }
+  },
+  "Christopher Ward": {
+    "official": "https://www.christopherward.com/int/watches",
+    "sources": [
+      "https://www.christopherward.com/on/demandware.static/-/Library-Sites-cw-library/default/dw01f98e8f/pdfs/SportNew/c63-celest.pdf",
+      "https://www.christopherward.com/on/demandware.static/-/Library-Sites-cw-library/default/dwcc948dce/pdfs/SportNew/the-twelve.pdf",
+      "https://www.christopherward.com/on/demandware.static/-/Library-Sites-cw-library/default/dw6a114c72/extended/carousel/range/wk29-carousel.html",
+      "https://www.christopherward.com/on/demandware.static/-/Library-Sites-cw-library/default/dwc4cb16c5/pdfs/SportNew/the-twelve-660.pdf"
+    ],
+    "linkCheck": {
+      "date": "2026-11-05",
+      "method": "official source indexed in search; direct retrieval restricted or incomplete",
+      "directStatus": null,
+      "directError": "fetch failed"
+    }
+  },
+  "Citizen": {
+    "official": "https://www.citizenwatch.com/us/en/",
+    "sources": [
+      "https://www.citizenwatch.com/us/en/"
+    ],
+    "linkCheck": {
+      "date": "2026-11-05",
+      "method": "official website retrieved",
+      "directStatus": 200,
+      "directError": null
+    }
+  },
+  "Corum": {
+    "official": "https://www.corum.ch/en/",
+    "sources": [
+      "https://www.corum.ch/en/",
+      "https://www.corum.ch/en/collections/golden-bridge/",
+      "https://corumwatch.jp/",
+      "https://www.corum.ch/en/press-room/",
+      "https://corumwatch.jp/products/",
+      "https://www.corum.ch/en/collections/heritage/"
+    ],
+    "linkCheck": {
+      "date": "2026-11-05",
+      "method": "official source indexed in search; direct retrieval restricted or incomplete",
+      "directStatus": null,
+      "directError": "fetch failed"
+    }
+  },
+  "De Bethune": {
+    "official": "https://www.debethune.ch/",
+    "sources": [
+      "https://www.debethune.ch/"
+    ],
+    "linkCheck": {
+      "date": "2026-11-05",
+      "method": "official website retrieved",
+      "directStatus": 200,
+      "directError": null
+    }
+  },
+  "Doxa": {
+    "official": "https://doxawatches.com/",
+    "sources": [
+      "https://doxawatches.com/"
+    ],
+    "linkCheck": {
+      "date": "2026-11-05",
+      "method": "official website retrieved",
+      "directStatus": 200,
+      "directError": null
+    }
+  },
+  "Ebel": {
+    "official": "https://www.ebel.com/",
+    "sources": [
+      "https://www.ebel.com/en/shop-watches/ebel-sport-classic-1216708.html",
+      "https://www.ebel.com/en/shop-watches/ebel-sport-classic-1216652.html",
+      "https://www.ebel.com/us/default/news-collection/1911-marine/",
+      "https://www.ebel.com/default/explore-watches/",
+      "https://www.ebel.com/us/en/ebel-icons/sport-classic/",
+      "https://www.ebel.com/us/en/shop-watches/ebel-sport-classic-1216696.html"
+    ],
+    "linkCheck": {
+      "date": "2026-11-05",
+      "method": "official source indexed in search; direct retrieval restricted or incomplete",
+      "directStatus": null,
+      "directError": "fetch failed"
+    }
+  },
+  "F.P. Journe": {
+    "official": "https://www.fpjourne.com/en",
+    "sources": [
+      "https://www.fpjourne.com/en"
+    ],
+    "linkCheck": {
+      "date": "2026-11-05",
+      "method": "official source indexed in search; direct retrieval restricted or incomplete",
+      "directStatus": 200,
+      "directError": null
+    }
+  },
+  "Fortis": {
+    "official": "https://www.fortis-swiss.com/",
+    "sources": [
+      "https://www.fortis-swiss.com/"
+    ],
+    "linkCheck": {
+      "date": "2026-11-05",
+      "method": "official website retrieved",
+      "directStatus": 200,
+      "directError": null
+    }
+  },
+  "Franck Muller": {
+    "official": "https://www.franckmuller.com/",
+    "sources": [
+      "https://www.franckmuller.com/"
+    ],
+    "linkCheck": {
+      "date": "2026-11-05",
+      "method": "official website retrieved",
+      "directStatus": 200,
+      "directError": null
+    }
+  },
+  "Frederique Constant": {
+    "official": "https://frederiqueconstant.com/",
+    "sources": [
+      "https://us.frederiqueconstant.com/collection/mens-manufacture/",
+      "https://us.frederiqueconstant.com/news",
+      "https://us.frederiqueconstant.com/collection/mens-highlife/",
+      "https://us.frederiqueconstant.com/collection/mens/",
+      "https://frederiqueconstant.com/wp-content/uploads/documents/FC_Consumer_Brochure_2024_EN.pdf?srsltid=AfmBOorBsPPRQVER-B604J4JjYRRQe5NpBUv3wIXIhoVHHh5e4e_oLgd",
+      "https://us.frederiqueconstant.com/"
+    ],
+    "linkCheck": {
+      "date": "2026-11-05",
+      "method": "official source indexed in search; direct retrieval restricted or incomplete",
+      "directStatus": 403,
+      "directError": "HTTP 403"
+    }
+  },
+  "Girard-Perregaux": {
+    "official": "https://www.girard-perregaux.com/en-us",
+    "sources": [
+      "https://www.girard-perregaux.com/en-us"
+    ],
+    "linkCheck": {
+      "date": "2026-11-05",
+      "method": "official website retrieved",
+      "directStatus": 200,
+      "directError": null
+    }
+  },
+  "Glashütte Original": {
+    "official": "https://www.glashuette-original.com/en/",
+    "sources": [
+      "https://www.glashuette-original.com/en/"
+    ],
+    "linkCheck": {
+      "date": "2026-11-05",
+      "method": "official website retrieved",
+      "directStatus": 200,
+      "directError": null
+    }
+  },
+  "Graham": {
+    "official": "https://graham1695.com/",
+    "sources": [
+      "https://graham1695.com/"
+    ],
+    "linkCheck": {
+      "date": "2026-11-05",
+      "method": "official website retrieved",
+      "directStatus": 200,
+      "directError": null
+    }
+  },
+  "Grand Seiko": {
+    "official": "https://www.grand-seiko.com/us-en/collections",
+    "sources": [
+      "https://www.grand-seiko.com/us-en/collections"
+    ],
+    "linkCheck": {
+      "method": "existing featured profile; not re-requested in this pass"
+    }
+  },
+  "Greubel Forsey": {
+    "official": "https://greubelforsey.com/en",
+    "sources": [
+      "https://greubelforsey.com/en"
+    ],
+    "linkCheck": {
+      "date": "2026-11-05",
+      "method": "official website retrieved",
+      "directStatus": 200,
+      "directError": null
+    }
+  },
+  "H. Moser & Cie.": {
+    "official": "https://h-moser.com/en",
+    "sources": [
+      "https://h-moser.com/en"
+    ],
+    "linkCheck": {
+      "date": "2026-11-05",
+      "method": "official website retrieved",
+      "directStatus": 200,
+      "directError": null
+    }
+  },
+  "Hamilton": {
+    "official": "https://www.hamiltonwatch.com/en-us/",
+    "sources": [
+      "https://www.hamiltonwatch.com/en-us/"
+    ],
+    "linkCheck": {
+      "date": "2026-11-05",
+      "method": "official website retrieved",
+      "directStatus": 200,
+      "directError": null
+    }
+  },
+  "Harry Winston": {
+    "official": "https://www.harrywinston.com/en/timepieces",
+    "sources": [
+      "https://www.harrywinston.com/en/timepieces"
+    ],
+    "linkCheck": {
+      "date": "2026-11-05",
+      "method": "official website retrieved",
+      "directStatus": 200,
+      "directError": null
+    }
+  },
+  "Hublot": {
+    "official": "https://www.hublot.com/en-us/find-your-hublot",
+    "sources": [
+      "https://www.hublot.com/en-us/find-your-hublot"
+    ],
+    "linkCheck": {
+      "date": "2026-11-05",
+      "method": "official source indexed in search; direct retrieval restricted or incomplete",
+      "directStatus": 403,
+      "directError": "HTTP 403"
+    }
+  },
+  "IWC Schaffhausen": {
+    "official": "https://www.iwc.com/",
+    "sources": [
+      "https://www.iwc.com/us-en/watches/portugieser/introduction-to-portugieser-watches"
+    ],
+    "linkCheck": {
+      "date": "2026-11-05",
+      "method": "official source indexed in search; direct retrieval restricted or incomplete",
+      "directStatus": 403,
+      "directError": "HTTP 403"
+    }
+  },
+  "Jacob & Co.": {
+    "official": "https://jacobandco.com/timepieces",
+    "sources": [
+      "https://jacobandco.com/timepieces",
+      "https://jacobandco.com/partnerships/gomining",
+      "https://jacobandco.com/timepieces/epic-x-sport",
+      "https://jacobandco.com/timepieces/epic-x-ceramic",
+      "https://jacobandco.com/news/jacob-co-unveils-limited-edition-astronomia-art-ring-of-fire",
+      "https://jacobandco.com/timepieces/astronomia-art"
+    ],
+    "linkCheck": {
+      "date": "2026-11-05",
+      "method": "official source indexed in search; direct retrieval restricted or incomplete",
+      "directStatus": 200,
+      "directError": null
+    }
+  },
+  "Jaeger-LeCoultre": {
+    "official": "https://www.jaeger-lecoultre.com/us-en/watches",
+    "sources": [
+      "https://www.jaeger-lecoultre.com/us-en/watches"
+    ],
+    "linkCheck": {
+      "date": "2026-11-05",
+      "method": "official source indexed in search; direct retrieval restricted or incomplete",
+      "directStatus": 403,
+      "directError": "HTTP 403"
+    }
+  },
+  "Junghans": {
+    "official": "https://www.junghans.de/en/",
+    "sources": [
+      "https://junghans.de/en/watches",
+      "https://junghans.de/en/collection/watches/meister/",
+      "https://junghans.de/uhren/max-bill",
+      "https://junghans.de/en/watches/junghans-max-bill/max-bill-handaufzug/max-bill-handaufzug",
+      "https://junghans.de/en/watches/junghans-max-bill/max-bill-kleine-automatic/max-bill-kleine-automatic-12",
+      "https://junghans.de/en/collection/watches-all/junghans-max-bill/"
+    ],
+    "linkCheck": {
+      "date": "2026-11-05",
+      "method": "official source indexed in search; direct retrieval restricted or incomplete",
+      "directStatus": null,
+      "directError": "fetch failed"
+    }
+  },
+  "Kari Voutilainen": {
+    "official": "https://www.voutilainen.ch/",
+    "sources": [
+      "https://www.voutilainen.ch/"
+    ],
+    "linkCheck": {
+      "date": "2026-11-05",
+      "method": "official source indexed in search; direct retrieval restricted or incomplete",
+      "directStatus": 200,
+      "directError": null
+    }
+  },
+  "Laurent Ferrier": {
+    "official": "https://laurentferrier.ch/",
+    "sources": [
+      "https://laurentferrier.ch/"
+    ],
+    "linkCheck": {
+      "date": "2026-11-05",
+      "method": "official website retrieved",
+      "directStatus": 200,
+      "directError": null
+    }
+  },
+  "Longines": {
+    "official": "https://www.longines.com/en-us/watches",
+    "sources": [
+      "https://www.longines.com/en-us/watches"
+    ],
+    "linkCheck": {
+      "method": "existing featured profile; not re-requested in this pass"
+    }
+  },
+  "Maurice Lacroix": {
+    "official": "https://www.mauricelacroix.com/us_en/",
+    "sources": [
+      "https://www.mauricelacroix.com/us_en/"
+    ],
+    "linkCheck": {
+      "date": "2026-11-05",
+      "method": "official website retrieved",
+      "directStatus": 200,
+      "directError": null
+    }
+  },
+  "MB&F": {
+    "official": "https://www.mbandf.com/",
+    "sources": [
+      "https://www.mbandf.com/machines/mbf-machines/legacy-machines",
+      "https://www.mbandf.com/machines",
+      "https://www.mbandf.com/eshop/horological-machines",
+      "https://www.mbandf.com/eshop/legacy-machines",
+      "https://www.mbandf.com/",
+      "https://www.mbandf.com/machines/mbf-machines"
+    ],
+    "linkCheck": {
+      "date": "2026-11-05",
+      "method": "official source indexed in search; direct retrieval restricted or incomplete",
+      "directStatus": 200,
+      "directError": null
+    }
+  },
+  "Mido": {
+    "official": "https://www.midowatches.com/us/",
+    "sources": [
+      "https://www.midowatches.com/us/"
+    ],
+    "linkCheck": {
+      "date": "2026-11-05",
+      "method": "official website retrieved",
+      "directStatus": 200,
+      "directError": null
+    }
+  },
+  "Montblanc": {
+    "official": "https://www.montblanc.com/en-us/watches",
+    "sources": [
+      "https://www.montblanc.com/en-us/watches?page=1",
+      "https://www.montblanc.com/content/dam/mtb/assets/company/customer-service/watches/Service-Guide-Watch-StandardComplication.pdf",
+      "https://www.montblanc.com/content/dam/mtb/assets/company/customer-service/watches/Service-Guide-Watch-1858-Iced-Sea.pdf",
+      "https://www.montblanc.com/en-gb/discover/edit/watch-novelties.html",
+      "https://www.montblanc.com/content/dam/mtb/assets/company/customer-service/watches/Service-Guide-Watch-Haute-Horlogerie.pdf",
+      "https://www.montblanc.com/en-us/watches?gclsrc=aw.ds"
+    ],
+    "linkCheck": {
+      "date": "2026-11-05",
+      "method": "official source indexed in search; direct retrieval restricted or incomplete",
+      "directStatus": null,
+      "directError": "The operation was aborted due to timeout"
+    }
+  },
+  "Moritz Grossmann": {
+    "official": "https://en.grossmann-uhren.com/",
+    "sources": [
+      "https://en.grossmann-uhren.com/"
+    ],
+    "linkCheck": {
+      "date": "2026-11-05",
+      "method": "official website retrieved",
+      "directStatus": 200,
+      "directError": null
+    }
+  },
+  "Nivada Grenchen": {
+    "official": "https://nivadagrenchenofficial.com/",
+    "sources": [
+      "https://nivadagrenchenofficial.com/"
+    ],
+    "linkCheck": {
+      "date": "2026-11-05",
+      "method": "official website retrieved",
+      "directStatus": 200,
+      "directError": null
+    }
+  },
+  "Nomos Glashütte": {
+    "official": "https://nomos-glashuette.com/en",
+    "sources": [
+      "https://nomos-glashuette.com/en"
+    ],
+    "linkCheck": {
+      "date": "2026-11-05",
+      "method": "official website retrieved",
+      "directStatus": 200,
+      "directError": null
+    }
+  },
+  "Omega": {
+    "official": "https://www.omegawatches.com/en-us/watches",
+    "sources": [
+      "https://www.omegawatches.com/en-us/watches"
+    ],
+    "linkCheck": {
+      "method": "existing featured profile; not re-requested in this pass"
+    }
+  },
+  "Oris": {
+    "official": "https://www.oris.ch/en-US",
+    "sources": [
+      "https://www.oris.ch/en-US"
+    ],
+    "linkCheck": {
+      "date": "2026-11-05",
+      "method": "official website retrieved",
+      "directStatus": 200,
+      "directError": null
+    }
+  },
+  "Panerai": {
+    "official": "https://www.panerai.com/us/en",
+    "sources": [
+      "https://www.panerai.com/us/en",
+      "https://www.panerai.com/us/en/collections/watch-collection.html?gclsrc=aw.ds",
+      "https://www.panerai.com/mt/en/home.html",
+      "https://www.panerai.com/mc/en/home.html",
+      "https://www.panerai.com/en/home.html?Itemid=122&idEvento=775&lang=en&option=com_eventi&view=evento",
+      "https://www.panerai.com/nl/en/home.html"
+    ],
+    "linkCheck": {
+      "date": "2026-11-05",
+      "method": "official source indexed in search; direct retrieval restricted or incomplete",
+      "directStatus": 403,
+      "directError": "HTTP 403"
+    }
+  },
+  "Parmigiani Fleurier": {
+    "official": "https://www.parmigiani.com/en/watches",
+    "sources": [
+      "https://www.parmigiani.com/en/watches",
+      "https://www.parmigiani.com/en/collections/tonda-pf/",
+      "https://www.parmigiani.com/en/watches/",
+      "https://press.parmigiani.com/",
+      "https://www.parmigiani.com/wp-content/uploads/2025/11/PF_CATALOGUE_COLLECTION_2025_EN_30mo.pdf",
+      "https://www.parmigiani.com/wp-content/uploads/2024/02/Parmigiani_CATALOGUE_COLLECTION_2024.pdf"
+    ],
+    "linkCheck": {
+      "date": "2026-11-05",
+      "method": "official source indexed in search; direct retrieval restricted or incomplete",
+      "directStatus": 403,
+      "directError": "HTTP 403"
+    }
+  },
+  "Patek Philippe": {
+    "official": "https://www.patek.com/en/collection",
+    "sources": [
+      "https://www.patek.com/en/collection"
+    ],
+    "linkCheck": {
+      "method": "existing featured profile; not re-requested in this pass"
+    }
+  },
+  "Piaget": {
+    "official": "https://www.piaget.com/us-en/watches",
+    "sources": [
+      "https://www.piaget.com/us-en/watches"
+    ],
+    "linkCheck": {
+      "date": "2026-11-05",
+      "method": "official website retrieved",
+      "directStatus": 200,
+      "directError": null
+    }
+  },
+  "Rado": {
+    "official": "https://www.rado.com/en_us/",
+    "sources": [
+      "https://www.rado.com/en_us/"
+    ],
+    "linkCheck": {
+      "date": "2026-11-05",
+      "method": "official website retrieved",
+      "directStatus": 200,
+      "directError": null
+    }
+  },
+  "Raymond Weil": {
+    "official": "https://www.raymond-weil.com/en-us",
+    "sources": [
+      "https://www.raymond-weil.com/en-us"
+    ],
+    "linkCheck": {
+      "date": "2026-11-05",
+      "method": "official website retrieved",
+      "directStatus": 200,
+      "directError": null
+    }
+  },
+  "Ressence": {
+    "official": "https://ressencewatches.com/",
+    "sources": [
+      "https://ressencewatches.com/"
+    ],
+    "linkCheck": {
+      "date": "2026-11-05",
+      "method": "official website retrieved",
+      "directStatus": 200,
+      "directError": null
+    }
+  },
+  "Richard Mille": {
+    "official": "https://www.richardmille.com/",
+    "sources": [
+      "https://www.richardmille.com/"
+    ],
+    "linkCheck": {
+      "date": "2026-11-05",
+      "method": "official website retrieved",
+      "directStatus": 200,
+      "directError": null
+    }
+  },
+  "Roger Dubuis": {
+    "official": "https://www.rogerdubuis.com/us-en",
+    "sources": [
+      "https://www.rogerdubuis.com/al-en/our-maison/maison-roger-dubuis/our-heritage",
+      "https://www.rogerdubuis.com/eg-en/our-maison/maison-roger-dubuis/our-heritage",
+      "https://www.rogerdubuis.com/gb-en/collections",
+      "https://www.rogerdubuis.com/al-en/collections/knights-of-the-round-table",
+      "https://www.rogerdubuis.com/eu-en/collections",
+      "https://www.rogerdubuis.com/sa-en/knights-of-the-round-table-ex1058-a-story-of-ice-and-fire"
+    ],
+    "linkCheck": {
+      "date": "2026-11-05",
+      "method": "official source indexed in search; direct retrieval restricted or incomplete",
+      "directStatus": 403,
+      "directError": "HTTP 403"
+    }
+  },
+  "Rolex": {
+    "official": "https://www.rolex.com/watches",
+    "sources": [
+      "https://www.rolex.com/watches"
+    ],
+    "linkCheck": {
+      "method": "existing featured profile; not re-requested in this pass"
+    }
+  },
+  "Seiko": {
+    "official": "https://www.seikowatches.com/us-en/products",
+    "sources": [
+      "https://www.seikowatches.com/us-en/products"
+    ],
+    "linkCheck": {
+      "method": "existing featured profile; not re-requested in this pass"
+    }
+  },
+  "Sinn": {
+    "official": "https://www.sinn.de/en/",
+    "sources": [
+      "https://www.sinn.de/out/media/Sinn_Katalogbuch_2025_2026_WEB.pdf",
+      "https://www.sinn.de/out/media/Sinn_Catalogue_2025_2026.pdf",
+      "https://www.sinn.de/out/media/Sinn_Katalogbuch_JP_2025_2026.pdf",
+      "https://www.sinn.de/index.php?aid=7ccbdb63f40493bc1dfa5e882f0c4ee6&cl=productpdf&lang=en&p=1&v=1765958343",
+      "https://www.sinn.de/index.php?aid=94c506144e814fe115a723a1a9716d80&cl=productpdf&lang=de&p=1&v=1764455397"
+    ],
+    "linkCheck": {
+      "date": "2026-11-05",
+      "method": "official source indexed in search; direct retrieval restricted or incomplete",
+      "directStatus": 403,
+      "directError": "HTTP 403"
+    }
+  },
+  "TAG Heuer": {
+    "official": "https://www.tagheuer.com/us/en/",
+    "sources": [
+      "https://www.tagheuer.com/us/en/timepieces/collections/tag-heuer-aquaracer/",
+      "https://www.tagheuer.com/us/en/timepieces/collections/tag-heuer-monaco/",
+      "https://www.tagheuer.com/us/en/timepieces/collections/tag-heuer-carrera/",
+      "https://www.tagheuer.com/gb/en/timepieces/collections/tag-heuer-carrera/",
+      "https://www.tagheuer.com/us/en/collections/collections.html",
+      "https://www.tagheuer.com/int/en/timepieces/collections/tag-heuer-monaco"
+    ],
+    "linkCheck": {
+      "date": "2026-11-05",
+      "method": "official source indexed in search; direct retrieval restricted or incomplete",
+      "directStatus": 403,
+      "directError": "HTTP 403"
+    }
+  },
+  "Tissot": {
+    "official": "https://www.tissotwatches.com/en-us",
+    "sources": [
+      "https://www.tissotwatches.com/en-us"
+    ],
+    "linkCheck": {
+      "date": "2026-11-05",
+      "method": "official website retrieved",
+      "directStatus": 200,
+      "directError": null
+    }
+  },
+  "Tudor": {
+    "official": "https://www.tudorwatch.com/en/watches",
+    "sources": [
+      "https://www.tudorwatch.com/en/watches"
+    ],
+    "linkCheck": {
+      "method": "existing featured profile; not re-requested in this pass"
+    }
+  },
+  "Ulysse Nardin": {
+    "official": "https://www.ulysse-nardin.com/en-us",
+    "sources": [
+      "https://www.ulysse-nardin.com/en-us"
+    ],
+    "linkCheck": {
+      "date": "2026-11-05",
+      "method": "official website retrieved",
+      "directStatus": 200,
+      "directError": null
+    }
+  },
+  "Urwerk": {
+    "official": "https://www.urwerk.com/",
+    "sources": [
+      "https://www.urwerk.com/"
+    ],
+    "linkCheck": {
+      "date": "2026-11-05",
+      "method": "official website retrieved",
+      "directStatus": 200,
+      "directError": null
+    }
+  },
+  "Vacheron Constantin": {
+    "official": "https://www.vacheron-constantin.com/ww/en/watches/all-collections.html",
+    "sources": [
+      "https://www.vacheron-constantin.com/ww/en/watches/all-collections.html"
+    ],
+    "linkCheck": {
+      "date": "2026-11-05",
+      "method": "official source indexed in search; direct retrieval restricted or incomplete",
+      "directStatus": 403,
+      "directError": "HTTP 403"
+    }
+  },
+  "Yema": {
+    "official": "https://yema.com/",
+    "sources": [
+      "https://yema.com/"
+    ],
+    "linkCheck": {
+      "date": "2026-11-05",
+      "method": "official website retrieved",
+      "directStatus": 200,
+      "directError": null
+    }
+  },
+  "Zenith": {
+    "official": "https://www.zenith-watches.com/en_us/",
+    "sources": [
+      "https://www.zenith-watches.com/en_us/products/defy",
+      "https://www.zenith-watches.com/en_us/products/watch-selection-offered-strap",
+      "https://www.zenith-watches.com/int/products/watches",
+      "https://www.zenith-watches.com/en_us/sitemap",
+      "https://www.zenith-watches.com/int/products/defy",
+      "https://www.zenith-watches.com/"
+    ],
+    "linkCheck": {
+      "date": "2026-11-05",
+      "method": "official source indexed in search; direct retrieval restricted or incomplete",
+      "directStatus": 403,
+      "directError": "HTTP 403"
+    }
+  }
+}

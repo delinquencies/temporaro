@@ -1,0 +1,138 @@
+[
+  {
+    "brand": "Rolex",
+    "commonsFile": "Rolex wordmark logo.svg",
+    "localFile": "logos/rolex.svg",
+    "status": "source-candidate; verify latest mark before publication",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Rolex_wordmark_logo.svg",
+    "result": "downloaded",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Rolex_wordmark_logo.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Rolex_wordmark_logo.svg",
+    "license": "Public domain"
+  },
+  {
+    "brand": "Omega",
+    "commonsFile": "Omega Logo.svg",
+    "localFile": "logos/omega.svg",
+    "status": "source-candidate; verify latest mark before publication",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Omega_Logo.svg",
+    "result": "downloaded",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Omega_Logo.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Omega_Logo.svg",
+    "license": "Public domain"
+  },
+  {
+    "brand": "Audemars Piguet",
+    "commonsFile": "Logo Audemars Piguet.svg",
+    "localFile": "logos/audemars-piguet.svg",
+    "status": "source-candidate; verify latest mark before publication",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Logo_Audemars_Piguet.svg",
+    "result": "downloaded",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Logo_Audemars_Piguet.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Logo_Audemars_Piguet.svg",
+    "license": "Public domain"
+  },
+  {
+    "brand": "Cartier",
+    "commonsFile": "Cartier logo.svg",
+    "localFile": "logos/cartier.svg",
+    "status": "source-candidate; verify latest mark before publication",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Cartier_logo.svg",
+    "result": "downloaded",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Cartier_logo.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Cartier_logo.svg",
+    "license": "Public domain"
+  },
+  {
+    "brand": "Vacheron Constantin",
+    "commonsFile": "Vacheron Constantin.svg",
+    "localFile": "logos/vacheron-constantin.svg",
+    "status": "source-candidate; verify latest mark before publication",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Vacheron_Constantin.svg",
+    "result": "downloaded",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Vacheron_Constantin.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Vacheron_Constantin.svg",
+    "license": "Public domain"
+  },
+  {
+    "brand": "Tudor",
+    "commonsFile": "Tudor (Uhrenmarke) logo.svg",
+    "localFile": "logos/tudor.svg",
+    "status": "source-candidate; verify latest mark before publication",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Tudor_(Uhrenmarke)_logo.svg",
+    "result": "not downloaded",
+    "error": "Rate limited; retry later"
+  },
+  {
+    "brand": "Panerai",
+    "commonsFile": "Panerai logo.svg",
+    "localFile": "logos/panerai.svg",
+    "status": "source-candidate; verify latest mark before publication",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Panerai_logo.svg",
+    "result": "not downloaded",
+    "error": "Rate limited; retry later"
+  },
+  {
+    "brand": "Hublot",
+    "commonsFile": "Hublot logo.svg",
+    "localFile": "logos/hublot.svg",
+    "status": "source-candidate; verify latest mark before publication",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Hublot_logo.svg",
+    "result": "not downloaded",
+    "error": "Rate limited; retry later"
+  },
+  {
+    "brand": "Breguet",
+    "commonsFile": "Breguet 2025 logo.svg",
+    "localFile": "logos/breguet.svg",
+    "status": "source-candidate; verify latest mark before publication",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Breguet_2025_logo.svg",
+    "result": "not downloaded",
+    "error": "Rate limited; retry later"
+  },
+  {
+    "brand": "Blancpain",
+    "commonsFile": "Blancpain logo.svg",
+    "localFile": "logos/blancpain.svg",
+    "status": "source-candidate; verify latest mark before publication",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Blancpain_logo.svg",
+    "result": "not downloaded",
+    "error": "Rate limited; retry later"
+  },
+  {
+    "brand": "A. Lange & Söhne",
+    "commonsFile": "Alange soehne logo.svg",
+    "localFile": "logos/a-lange-sohne.svg",
+    "status": "source-candidate; verify latest mark before publication",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Alange_soehne_logo.svg",
+    "result": "not downloaded",
+    "error": "Rate limited; retry later"
+  },
+  {
+    "brand": "Piaget",
+    "commonsFile": "Piaget logo.svg",
+    "localFile": "logos/piaget.svg",
+    "status": "source-candidate; verify latest mark before publication",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Piaget_logo.svg",
+    "result": "not downloaded",
+    "error": "Rate limited; retry later"
+  },
+  {
+    "brand": "Richard Mille",
+    "commonsFile": "Richard Mille Logo.svg",
+    "localFile": "logos/richard-mille.svg",
+    "status": "source-candidate; verify latest mark before publication",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Richard_Mille_Logo.svg",
+    "result": "not downloaded",
+    "error": "Rate limited; retry later"
+  },
+  {
+    "brand": "Parmigiani Fleurier",
+    "commonsFile": "Parmigiani Fleurier logo.svg",
+    "localFile": "logos/parmigiani-fleurier.svg",
+    "status": "source-candidate; verify latest mark before publication",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Parmigiani_Fleurier_logo.svg",
+    "result": "not downloaded",
+    "error": "Rate limited; retry later"
+  }
+]

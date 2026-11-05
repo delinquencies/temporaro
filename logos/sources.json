@@ -1,0 +1,254 @@
+[
+  {
+    "brand": "Rolex",
+    "commonsFile": "Rolex wordmark logo.svg",
+    "localFile": "logos/rolex.svg",
+    "status": "source-candidate; verify latest mark before publication",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Rolex_wordmark_logo.svg"
+  },
+  {
+    "brand": "Omega",
+    "commonsFile": "Omega Logo.svg",
+    "localFile": "logos/omega.svg",
+    "status": "source-candidate; verify latest mark before publication",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Omega_Logo.svg"
+  },
+  {
+    "brand": "Audemars Piguet",
+    "commonsFile": "Logo Audemars Piguet.svg",
+    "localFile": "logos/audemars-piguet.svg",
+    "status": "source-candidate; verify latest mark before publication",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Logo_Audemars_Piguet.svg"
+  },
+  {
+    "brand": "Cartier",
+    "commonsFile": "Cartier logo.svg",
+    "localFile": "logos/cartier.svg",
+    "status": "source-candidate; verify latest mark before publication",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Cartier_logo.svg"
+  },
+  {
+    "brand": "Vacheron Constantin",
+    "commonsFile": "Vacheron Constantin.svg",
+    "localFile": "logos/vacheron-constantin.svg",
+    "status": "source-candidate; verify latest mark before publication",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Vacheron_Constantin.svg"
+  },
+  {
+    "brand": "Tudor",
+    "commonsFile": "Tudor (Uhrenmarke) logo.svg",
+    "localFile": "logos/tudor.svg",
+    "status": "source-candidate; verify latest mark before publication",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Tudor_(Uhrenmarke)_logo.svg"
+  },
+  {
+    "brand": "Panerai",
+    "commonsFile": "Panerai logo.svg",
+    "localFile": "logos/panerai.svg",
+    "status": "source-candidate; verify latest mark before publication",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Panerai_logo.svg"
+  },
+  {
+    "brand": "Hublot",
+    "commonsFile": "Hublot logo.svg",
+    "localFile": "logos/hublot.svg",
+    "status": "source-candidate; verify latest mark before publication",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Hublot_logo.svg"
+  },
+  {
+    "brand": "Breguet",
+    "commonsFile": "Breguet 2025 logo.svg",
+    "localFile": "logos/breguet.svg",
+    "status": "source-candidate; verify latest mark before publication",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Breguet_2025_logo.svg"
+  },
+  {
+    "brand": "Blancpain",
+    "commonsFile": "Blancpain logo.svg",
+    "localFile": "logos/blancpain.svg",
+    "status": "source-candidate; verify latest mark before publication",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Blancpain_logo.svg"
+  },
+  {
+    "brand": "A. Lange & Söhne",
+    "commonsFile": "Alange soehne logo.svg",
+    "localFile": "logos/a-lange-sohne.svg",
+    "status": "source-candidate; verify latest mark before publication",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Alange_soehne_logo.svg"
+  },
+  {
+    "brand": "Piaget",
+    "commonsFile": "Piaget logo.svg",
+    "localFile": "logos/piaget.svg",
+    "status": "source-candidate; verify latest mark before publication",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Piaget_logo.svg"
+  },
+  {
+    "brand": "Richard Mille",
+    "commonsFile": "Richard Mille Logo.svg",
+    "localFile": "logos/richard-mille.svg",
+    "status": "source-candidate; verify latest mark before publication",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Richard_Mille_Logo.svg"
+  },
+  {
+    "brand": "Parmigiani Fleurier",
+    "commonsFile": "Parmigiani Fleurier logo.svg",
+    "localFile": "logos/parmigiani-fleurier.svg",
+    "status": "source-candidate; verify latest mark before publication",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Parmigiani_Fleurier_logo.svg"
+  },
+  {
+    "brand": "Baume & Mercier",
+    "commonsFile": "Baume & Mercier logo.svg",
+    "localFile": "logos/baume-mercier.svg",
+    "status": "source-candidate; verify latest mark before publication",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Baume_&_Mercier_logo.svg"
+  },
+  {
+    "brand": "Oris",
+    "commonsFile": "Oris logo.svg",
+    "localFile": "logos/oris.svg",
+    "status": "source-candidate; verify latest mark before publication",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Oris_logo.svg"
+  },
+  {
+    "brand": "Rado",
+    "commonsFile": "Rado (Uhrenmarke) logo.svg",
+    "localFile": "logos/rado.svg",
+    "status": "source-candidate; verify latest mark before publication",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Rado_(Uhrenmarke)_logo.svg"
+  },
+  {
+    "brand": "Mido",
+    "commonsFile": "Mido logo.svg",
+    "localFile": "logos/mido.svg",
+    "status": "source-candidate; verify latest mark before publication",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Mido_logo.svg"
+  },
+  {
+    "brand": "Certina",
+    "commonsFile": "Certina wordmark logo.svg",
+    "localFile": "logos/certina.svg",
+    "status": "source-candidate; verify latest mark before publication",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Certina_wordmark_logo.svg"
+  },
+  {
+    "brand": "Citizen",
+    "commonsFile": "Citizen logo.svg",
+    "localFile": "logos/citizen.svg",
+    "status": "source-candidate; verify latest mark before publication",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Citizen_logo.svg"
+  },
+  {
+    "brand": "Junghans",
+    "commonsFile": "Junghans logo 2010.svg",
+    "localFile": "logos/junghans.svg",
+    "status": "source-candidate; verify latest mark before publication",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Junghans_logo_2010.svg"
+  },
+  {
+    "brand": "Raymond Weil",
+    "commonsFile": "Raymond Weil logo.svg",
+    "localFile": "logos/raymond-weil.svg",
+    "status": "source-candidate; verify latest mark before publication",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Raymond_Weil_logo.svg"
+  },
+  {
+    "brand": "Ebel",
+    "commonsFile": "Ebel (Uhrenmarke) logo.svg",
+    "localFile": "logos/ebel.svg",
+    "status": "source-candidate; verify latest mark before publication",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Ebel_(Uhrenmarke)_logo.svg"
+  },
+  {
+    "brand": "Bell & Ross",
+    "commonsFile": "Bellross logo.svg",
+    "localFile": "logos/bell-ross.svg",
+    "status": "source-candidate; verify latest mark before publication",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Bellross_logo.svg"
+  },
+  {
+    "brand": "IWC Schaffhausen",
+    "commonsFile": "International Watch Company logo.svg",
+    "localFile": "logos/iwc-schaffhausen.svg",
+    "status": "source-candidate; verify latest mark before publication",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:International_Watch_Company_logo.svg"
+  },
+  {
+    "brand": "Glashütte Original",
+    "commonsFile": "Glashütter Uhrenbetrieb logo.svg",
+    "localFile": "logos/glashutte-original.svg",
+    "status": "source-candidate; verify latest mark before publication",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Glashütter_Uhrenbetrieb_logo.svg"
+  },
+  {
+    "brand": "Montblanc",
+    "commonsFile": "Montblanc logo.svg",
+    "localFile": "logos/montblanc.svg",
+    "status": "source-candidate; verify latest mark before publication",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Montblanc_logo.svg"
+  },
+  {
+    "brand": "Longines",
+    "commonsFile": "Longines wordmark logo.svg",
+    "localFile": "logos/longines.svg",
+    "status": "source-candidate; verify latest mark before publication",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Longines_wordmark_logo.svg"
+  },
+  {
+    "brand": "TAG Heuer",
+    "commonsFile": "TAG Heuer Logo.svg",
+    "localFile": "logos/tag-heuer.svg",
+    "status": "source-candidate; verify latest mark before publication",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:TAG_Heuer_Logo.svg"
+  },
+  {
+    "brand": "Tissot",
+    "commonsFile": "Tissot Logo.svg",
+    "localFile": "logos/tissot.svg",
+    "status": "source-candidate; verify latest mark before publication",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Tissot_Logo.svg"
+  },
+  {
+    "brand": "Seiko",
+    "commonsFile": "Seiko logo.svg",
+    "localFile": "logos/seiko.svg",
+    "status": "source-candidate; verify latest mark before publication",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Seiko_logo.svg"
+  },
+  {
+    "brand": "Sinn",
+    "commonsFile": "Sinn (Uhrenhersteller) logo.svg",
+    "localFile": "logos/sinn.svg",
+    "status": "source-candidate; verify latest mark before publication",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Sinn_(Uhrenhersteller)_logo.svg"
+  },
+  {
+    "brand": "Zenith",
+    "commonsFile": "Zenith S. A. logo.svg",
+    "localFile": "logos/zenith.svg",
+    "status": "source-candidate; verify latest mark before publication",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Zenith_S._A._logo.svg"
+  },
+  {
+    "brand": "Bulgari",
+    "commonsFile": "Bulgari logo.svg",
+    "localFile": "logos/bulgari.svg",
+    "status": "source-candidate; verify latest mark before publication",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Bulgari_logo.svg"
+  },
+  {
+    "brand": "Nomos Glashütte",
+    "commonsFile": "Nomos Glashütte.svg",
+    "localFile": "logos/nomos-glashutte.svg",
+    "status": "source-candidate; verify latest mark before publication",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Nomos_Glashütte.svg"
+  },
+  {
+    "brand": "Bulova",
+    "commonsFile": "Bulova logo.svg",
+    "localFile": "logos/bulova.svg",
+    "status": "source-candidate; verify latest mark before publication",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Bulova_logo.svg"
+  }
+]
